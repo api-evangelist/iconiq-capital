@@ -1,0 +1,81 @@
+aid: iconiq-capital
+name: ICONIQ Capital
+description: >-
+  ICONIQ Capital is a global investment firm founded in December 2011 by Divesh
+  Makan, Michael Anders, and Chad Boeding, headquartered in San Francisco,
+  California with offices in Palo Alto, New York, London, and Singapore. ICONIQ
+  operates as a hybrid family office and multi-strategy investment firm serving
+  ultra-high-net-worth technology entrepreneurs, executives, and their families,
+  and reports over $100B in assets under management across investment management,
+  real assets, venture and growth, and impact strategies. Its venture arm, ICONIQ
+  Growth, partners with founders from inception through IPO and beyond, backing
+  category-leading technology companies across enterprise software,
+  infrastructure, data, developer tools, fintech, security, healthcare IT, and —
+  since 2023 — artificial intelligence as a core theme. ICONIQ Growth has invested
+  in 140+ companies and produced notable outcomes including Snowflake, Airbnb,
+  GitLab, HashiCorp, Datadog, Docusign, Adyen, Uber, Zoom, and Procore, alongside
+  active AI positions in Anthropic, OpenAI, Writer, Glean, ElevenLabs, and Sierra.
+x-type: venture-capital
+x-category: Growth Equity
+image: https://www.iconiq.com/favicon.ico
+tags:
+  - Venture Capital
+  - Growth Equity
+  - Series B
+  - Growth
+  - Artificial Intelligence
+  - Enterprise Software
+  - Fintech
+  - Infrastructure
+  - Security
+  - Global
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.iconiq.com/
+  - type: Portfolio
+    url: https://www.iconiq.com/growth/companies
+  - type: Portfolio
+    url: portfolio/iconiq-capital-portfolio.yml
+  - type: InvestmentThesis
+    url: https://www.iconiq.com/growth
+  - type: Blog
+    url: https://www.iconiq.com/growth/insights
+  - type: News
+    url: https://www.iconiq.com/news
+  - type: Jobs
+    url: https://www.iconiq.com/careers
+  - type: Contact
+    url: https://www.iconiq.com/email
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/iconiq-capital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/iconiq-capital-llc/
+  - type: Twitter
+    url: https://x.com/ICONIQCapital
+  - type: Features
+    data:
+      - 'Stage: Venture and growth, from inception through IPO and beyond (AI core at Series B since 2023)'
+      - 'Sectors: enterprise software, infrastructure, data, developer tools, fintech, security, healthcare IT, artificial intelligence'
+      - 'Geography: Global (offices in San Francisco, Palo Alto, New York, London, Singapore)'
+      - 'AUM: $100B+ firm-wide across all strategies (self-reported)'
+      - 'Track record: ICONIQ Growth has invested in 140+ companies'
+      - 'Founded: December 2011'
+      - 'Founders: Divesh Makan, Michael Anders, Chad Boeding'
+      - 'HQ: San Francisco, California'
+    sources:
+      - https://www.iconiq.com/
+      - https://www.iconiq.com/growth
+      - https://en.wikipedia.org/wiki/Iconiq_Capital
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: ICONIQ Capital
+    url: https://www.iconiq.com/

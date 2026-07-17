@@ -1,0 +1,1764 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.iconiq.com/growth/companies
+summary:
+  portfolio_total: 166
+  in_network: 94
+  api_providers: 66
+  missing: 72
+  stubs_created: 0
+companies:
+- name: 1Password
+  url: https://www.1password.com/
+  description: Password and enterprise secrets management.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: 1password
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: AcuityMD
+  url: https://www.acuitymd.com/
+  description: Commercial intelligence platform for medical device companies.
+  sector: healthcare
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: acuitymd
+- name: Adyen
+  url: https://www.adyen.com/
+  description: Global payments platform.
+  sector: fintech
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: adyen
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Age of Learning
+  url: https://www.ageoflearning.com/
+  description: Early-childhood education company behind ABCmouse.
+  sector: edtech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: age-of-learning
+- name: Airbnb
+  url: https://www.airbnb.com/
+  description: Travel and short-term rental marketplace.
+  sector: marketplace
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: airbnb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Airtable
+  url: https://www.airtable.com/
+  description: Low-code app and database platform.
+  sector: productivity
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: airtable
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ajaib
+  url: https://ajaib.co.id/
+  description: Indonesian investment and trading app.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: goto-gojek
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Alibaba
+  url: https://www.alibaba.com/
+  description: Chinese e-commerce and cloud conglomerate.
+  sector: ecommerce
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: alibaba
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Altruist
+  url: https://altruist.com/
+  description: Custodian platform for independent financial advisors.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: altruist
+- name: Anduril
+  url: https://www.anduril.com/
+  description: Defense technology company building autonomous systems.
+  sector: defense
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: anduril
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Anthropic
+  url: https://www.anthropic.com/
+  description: AI safety company and maker of Claude.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: anthropic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Apprentice
+  url: https://www.apprentice.io/
+  description: Manufacturing platform for life sciences.
+  sector: healthcare
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: apprentice
+- name: Conga
+  url: https://www.conga.com/
+  description: Revenue lifecycle and document generation software.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: conga
+- name: Articulate
+  url: https://www.articulate.com/
+  description: E-learning content creation platform.
+  sector: edtech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: articulate
+- name: Assured
+  url: https://www.assured.com/
+  description: AI-powered insurance claims automation.
+  sector: insurtech
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: assured
+- name: Aurora Solar
+  url: https://www.aurorasolar.com/
+  description: Solar design and sales software.
+  sector: cleantech
+  stage: series-d
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: aurora-solar
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Automattic
+  url: https://www.automattic.com/
+  description: Company behind WordPress.com and WooCommerce.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: gravatar
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Axonius
+  url: https://www.axonius.com/
+  description: Cybersecurity asset management platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: axonius
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Backstory
+  url: https://www.backstory.ai/
+  description: AI company.
+  sector: ai
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: backstory
+- name: BambooHR
+  url: https://www.bamboohr.com/
+  description: HR software for small and medium businesses.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: bamboohr
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Benchling
+  url: https://www.benchling.com/
+  description: R&D cloud platform for life sciences.
+  sector: healthcare
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: benchling
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BetterUp
+  url: https://www.betterup.com/
+  description: Coaching and mental fitness platform.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: betterup
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: BILL
+  url: https://www.bill.com/
+  description: Financial operations platform for SMBs.
+  sector: fintech
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: bill
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BlackLine
+  url: https://www.blackline.com/
+  description: Financial close and accounting automation software.
+  sector: fintech
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blackline
+- name: Braintrust
+  url: https://www.braintrust.dev/
+  description: Platform for evaluating and building AI applications.
+  sector: ai
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: braintrust
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Braze
+  url: https://www.braze.com/
+  description: Customer engagement platform.
+  sector: marketing
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: braze
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Calendly
+  url: https://www.calendly.com/
+  description: Scheduling automation platform.
+  sector: productivity
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: calendly
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Campaign Monitor
+  url: https://www.campaignmonitor.com/
+  description: Email marketing platform.
+  sector: marketing
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  slug: campaignmonitor
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Canva
+  url: https://www.canva.com/
+  description: Online graphic design platform.
+  sector: design
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: canva
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CaptivateIQ
+  url: https://www.captivateiq.com/
+  description: Sales commission management software.
+  sector: fintech
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: captivateiq
+- name: Causaly
+  url: https://www.causaly.com/
+  description: AI research platform for biomedical evidence.
+  sector: ai
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: causaly
+- name: Chime
+  url: https://www.chime.com/
+  description: Consumer neobank.
+  sector: fintech
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: chime
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Clara
+  url: https://www.clara.com/
+  description: Spend management platform for Latin America.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clara
+- name: Coast
+  url: https://coastpay.com/
+  description: Fleet fuel and expense card platform.
+  sector: fintech
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coast
+- name: Collibra
+  url: https://www.collibra.com/
+  description: Data intelligence and governance platform.
+  sector: data
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: collibra
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Conduct AI
+  url: https://conduct.ai/
+  description: AI company.
+  sector: ai
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: conduct-ai
+- name: Conexiom
+  url: https://www.conexiom.com/
+  description: Sales order and invoice automation.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: conexiom
+- name: Coupa
+  url: https://www.coupa.com/
+  description: Business spend management platform.
+  sector: enterprise-software
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  slug: coupa
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CrowdStrike
+  url: https://www.crowdstrike.com/
+  description: Cloud-native endpoint security platform.
+  sector: security
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: crowdstrike
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Databricks
+  url: https://www.databricks.com/
+  description: Data and AI lakehouse platform.
+  sector: data
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: databricks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Datadog
+  url: http://www.datadoghq.com/
+  description: Cloud monitoring and observability platform.
+  sector: developer-tools
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: anomaly-detection
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Dataiku
+  url: https://www.dataiku.com/
+  description: Enterprise AI and machine learning platform.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: dataiku
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: dbt Labs
+  url: https://www.getdbt.com/
+  description: Analytics engineering and data transformation platform.
+  sector: data
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: data-modeling
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DeepL
+  url: https://www.deepl.com/
+  description: AI translation and language platform.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: deepl
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Devoted Health
+  url: https://www.devoted.com/
+  description: Medicare Advantage health plan.
+  sector: healthcare
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: devoted-health
+- name: DexCare
+  url: https://dexcare.com/
+  description: Digital care orchestration for health systems.
+  sector: healthcare
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dexcare
+- name: Dialpad
+  url: https://www.dialpad.com/
+  description: AI-powered cloud communications platform.
+  sector: communications
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: dialpad
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Docusign
+  url: https://www.docusign.com/
+  description: Electronic signature and agreement platform.
+  sector: enterprise-software
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: docusign
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Drata
+  url: https://www.drata.com/
+  description: Security and compliance automation platform.
+  sector: security
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: drata
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ElevenLabs
+  url: https://elevenlabs.io/
+  description: AI voice and audio generation platform.
+  sector: ai
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: elevenlabs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Enfusion
+  url: https://www.enfusion.com/
+  description: Investment management software.
+  sector: fintech
+  stage: ipo
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enfusion
+- name: Epic Games
+  url: https://store.epicgames.com/
+  description: Game developer and creator of Unreal Engine and Fortnite.
+  sector: gaming
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: epic-games
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: EvolutionIQ
+  url: https://evolutioniq.com/
+  description: AI claims guidance for disability and injury.
+  sector: insurtech
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evolutioniq
+- name: ezCater
+  url: https://www.ezcater.com/
+  description: Business catering marketplace.
+  sector: marketplace
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ezcater
+- name: Fastly
+  url: https://www.fastly.com/
+  description: Edge cloud and content delivery platform.
+  sector: developer-tools
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: fastly
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fetch
+  url: https://www.fetchrewards.com/
+  description: Consumer rewards and shopping app.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fetch
+- name: Figma
+  url: https://www.figma.com/
+  description: Collaborative interface design platform.
+  sector: design
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: figma
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fin
+  url: https://fin.ai/
+  description: AI customer service agent by Intercom.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fin
+- name: Fireblocks
+  url: https://www.fireblocks.com/
+  description: Digital asset custody and infrastructure platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: fireblocks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fivetran
+  url: https://www.fivetran.com/
+  description: Automated data movement and integration platform.
+  sector: data
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: fivetran
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Flipkart
+  url: https://www.flipkart.com/
+  description: Indian e-commerce marketplace.
+  sector: ecommerce
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: flipkart-marketplace
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: FloQast
+  url: https://floqast.com/
+  description: Accounting close management software.
+  sector: fintech
+  stage: series-e
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: floqast
+- name: FreeWill
+  url: https://www.freewill.com/
+  description: Online estate planning and charitable giving platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: freewill
+- name: FTX
+  url: https://www.ftx.us/
+  description: Collapsed cryptocurrency exchange.
+  sector: crypto
+  stage: dead
+  status: dead
+  source: https://www.iconiq.com/growth/companies
+  slug: ftx
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Gem
+  url: https://www.gem.com/
+  description: Recruiting CRM and talent engagement platform.
+  sector: hr-tech
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: gem-com
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: GitLab
+  url: https://www.gitlab.com/
+  description: DevOps and source-code platform.
+  sector: developer-tools
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: gitlab
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Glean
+  url: https://www.glean.com/
+  description: Enterprise AI search and work assistant.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: glean
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: GoFundMe
+  url: https://www.gofundme.com/
+  description: Online fundraising and crowdfunding platform.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: classy-org
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: GreenSky
+  url: https://www.greensky.com/
+  description: Point-of-sale consumer lending platform.
+  sector: fintech
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: greensky
+- name: Grotto AI
+  url: https://grottoai.com/
+  description: AI company.
+  sector: ai
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: grotto-ai
+- name: Groww
+  url: https://groww.in/
+  description: Indian investment and trading platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: groww
+- name: Guild
+  url: https://www.guildeducation.com/
+  description: Education and upskilling benefits platform.
+  sector: edtech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guild
+- name: HashiCorp
+  url: https://www.hashicorp.com/
+  description: Cloud infrastructure automation software.
+  sector: developer-tools
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  slug: hashicorp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: HeadSpin
+  url: https://www.headspin.io/
+  description: Mobile app testing and performance platform.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: headspin
+- name: Helsing
+  url: https://helsing.ai/
+  description: European defense AI company.
+  sector: defense
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: helsing
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: ams OSRAM
+  url: https://www.ams.com/
+  description: Sensor and photonics semiconductor maker.
+  sector: hardware
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ams-osram
+- name: HighRadius
+  url: https://www.highradius.com/
+  description: Autonomous finance and order-to-cash software.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: highradius
+- name: Highspot
+  url: https://www.highspot.com/
+  description: Sales enablement platform.
+  sector: sales
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: highspot
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Hightouch
+  url: https://www.hightouch.io/
+  description: Data activation and reverse-ETL platform.
+  sector: data
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: hightouch
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Hippo
+  url: https://www.hippo.com/
+  description: Home insurance platform.
+  sector: insurtech
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: hippo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: The Honest Company
+  url: https://www.honest.com/
+  description: Consumer products and baby-care brand.
+  sector: consumer
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-honest-company
+- name: Houzz
+  url: https://www.houzz.com/
+  description: Home renovation and design marketplace.
+  sector: marketplace
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: houzz
+- name: IEX
+  url: https://exchange.iex.io/
+  description: Investor-focused stock exchange.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: iex
+- name: Incident IQ
+  url: https://www.incidentiq.com/
+  description: Workflow management for K-12 school districts.
+  sector: edtech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: incident-iq
+- name: Intercom
+  url: https://www.intercom.com/
+  description: AI-first customer service platform.
+  sector: customer-support
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: intercom
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: InVision
+  url: https://www.invisionapp.com/
+  description: Digital product design platform (wound down).
+  sector: design
+  stage: dead
+  status: dead
+  source: https://www.iconiq.com/growth/companies
+  slug: invision
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Komodo Health
+  url: https://www.komodohealth.com/
+  description: Healthcare data and analytics platform.
+  sector: healthcare
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: komodo-health
+- name: Lead Bank
+  url: https://www.lead.bank/
+  description: Banking and embedded finance platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: lead-bank
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Legora
+  url: https://legora.com/
+  description: AI platform for legal work.
+  sector: ai
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: legora
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Loom
+  url: https://www.loom.com/
+  description: Async video messaging (acquired by Atlassian).
+  sector: productivity
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  slug: loom
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Lucid
+  url: https://www.lucid.co/
+  description: Visual collaboration and diagramming software.
+  sector: productivity
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: lucidchart
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Marqeta
+  url: https://www.marqeta.com/
+  description: Modern card issuing platform.
+  sector: fintech
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: marqeta
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Miro
+  url: https://www.miro.com/
+  description: Online collaborative whiteboard platform.
+  sector: productivity
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: miro
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Monte Carlo
+  url: https://www.montecarlodata.com/
+  description: Data observability platform.
+  sector: data
+  stage: series-d
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: montecarlodata
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Monzo
+  url: https://monzo.com/
+  description: UK digital bank.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: neobanks
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Motorway
+  url: https://motorway.co.uk/
+  description: UK used-car marketplace.
+  sector: marketplace
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: motorway
+- name: Moveworks
+  url: https://www.moveworks.com/
+  description: AI copilot for employee support (acquired by ServiceNow).
+  sector: ai
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  slug: moveworks
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Nayya
+  url: https://www.nayya.com/
+  description: Benefits and insurance decision platform.
+  sector: insurtech
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nayya
+- name: Netskope
+  url: https://www.netskope.com/
+  description: Cloud security and SASE platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: netskope
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Nevis Wealth
+  url: https://www.neviswealth.com/
+  description: Wealth management platform.
+  sector: fintech
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nevis-wealth
+- name: NinjaOne
+  url: https://www.ninjaone.com/
+  description: IT endpoint management platform.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ninjaone
+- name: Notable
+  url: https://www.notablehealth.com/
+  description: AI automation platform for healthcare operations.
+  sector: healthcare
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: notable
+- name: Notion
+  url: https://www.notion.so/
+  description: Connected workspace and note-taking platform.
+  sector: productivity
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: notion
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Omni
+  url: https://omni.co/
+  description: Business intelligence platform.
+  sector: data
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: omni
+- name: OpenAI
+  url: https://openai.com/
+  description: AI research company and maker of ChatGPT.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: openai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: OpenEvidence
+  url: https://www.openevidence.com/
+  description: AI platform for clinical medical evidence.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: openevidence
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Orca Security
+  url: https://www.orca.security/
+  description: Agentless cloud security platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: orca-security
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Oura
+  url: https://ouraring.com/
+  description: Smart ring for health and sleep tracking.
+  sector: hardware
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: oura-ring
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Outtake
+  url: https://outtake.ai/
+  description: AI-driven cybersecurity company.
+  sector: ai
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: outtake
+- name: Panther
+  url: https://www.panther.com/
+  description: Security data lake and detection platform.
+  sector: security
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: panther
+- name: Pepper
+  url: https://www.usepepper.com/
+  description: B2B food distribution commerce platform.
+  sector: foodtech
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pepper
+- name: Pi
+  url: https://www.pi.website/
+  description: Financial technology company.
+  sector: fintech
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: physical-intelligence
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Pigment
+  url: https://www.gopigment.com/
+  description: Business planning and forecasting platform.
+  sector: enterprise-software
+  stage: series-d
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pigment
+- name: Pinecone
+  url: https://www.pinecone.io/
+  description: Vector database for AI applications.
+  sector: ai
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: pinecone
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pluralsight
+  url: https://www.pluralsight.com/
+  description: Technology skills and workforce development platform.
+  sector: edtech
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  slug: pluralsight
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pontera
+  url: https://pontera.com/
+  description: Retirement account management platform for advisors.
+  sector: fintech
+  stage: series-d
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pontera
+- name: Primer
+  url: https://primer.io/
+  description: Unified payments infrastructure platform.
+  sector: fintech
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: primer
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Procore
+  url: https://www.procore.com/
+  description: Construction management software.
+  sector: construction
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: procore
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: QGenda
+  url: https://www.qgenda.com/
+  description: Healthcare workforce management software.
+  sector: healthcare
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qgenda
+- name: Quince
+  url: https://www.quince.com/
+  description: Affordable premium consumer goods brand.
+  sector: ecommerce
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quince
+- name: Rain
+  url: https://www.rain.xyz/
+  description: Stablecoin card and payments infrastructure.
+  sector: fintech
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rain
+- name: Ramp
+  url: https://www.ramp.com/
+  description: Corporate cards and spend management platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: ramp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Recharge
+  url: https://www.rechargepayments.com/
+  description: Subscription commerce platform.
+  sector: ecommerce
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: recharge-payments
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Red Ventures
+  url: https://www.redventures.com/
+  description: Digital media and marketing company.
+  sector: media
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: red-ventures
+- name: Reify Health
+  url: https://www.reifyhealth.com/
+  description: Clinical trial technology platform.
+  sector: healthcare
+  stage: series-d
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reify-health
+- name: Relativity
+  url: https://www.relativity.com/
+  description: E-discovery and legal data software.
+  sector: legaltech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: relativity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Reprise
+  url: https://www.reprise.com/
+  description: Product demo and sales experience platform.
+  sector: sales
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: reprise
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Restaurant365
+  url: https://www.restaurant365.com/
+  description: Restaurant management and accounting software.
+  sector: restaurant-tech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: restaurant365
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Rillet
+  url: https://www.rillet.com/
+  description: AI-native general ledger and accounting software.
+  sector: fintech
+  stage: series-a
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rillet
+- name: Robinhood
+  url: https://www.robinhood.com/
+  description: Commission-free investing and trading platform.
+  sector: fintech
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: robinhood
+- name: Sanity
+  url: https://www.sanity.io/
+  description: Composable content platform for structured content.
+  sector: developer-tools
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: sanity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sendbird
+  url: https://www.sendbird.com/
+  description: Conversations and messaging API platform.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: sendbird
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ServiceTitan
+  url: https://www.servicetitan.com/
+  description: Software for trades and field service businesses.
+  sector: vertical-saas
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: servicetitan
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Shopmonkey
+  url: https://www.shopmonkey.io/
+  description: Auto repair shop management software.
+  sector: vertical-saas
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: shopmonkey
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Side
+  url: https://www.sideinc.com/
+  description: Brokerage platform for real estate agents.
+  sector: proptech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: side
+- name: Sierra
+  url: https://sierra.ai/
+  description: Conversational AI agent platform for enterprises.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: sierra
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Skuid
+  url: https://www.skuid.com/
+  description: No-code application development platform.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: skuid
+- name: Smartling
+  url: https://www.smartling.com/
+  description: Translation and localization management platform.
+  sector: enterprise-software
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: smartling
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Snowflake
+  url: https://www.snowflake.com/
+  description: Cloud data warehouse and AI data platform.
+  sector: data
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: snowflake
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Spotnana
+  url: https://www.spotnana.com/
+  description: Travel-as-a-service infrastructure platform.
+  sector: travel-tech
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spotnana
+- name: Sprinklr
+  url: https://www.sprinklr.com/
+  description: Unified customer experience management platform.
+  sector: marketing
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: sprinklr
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Squire
+  url: https://www.getsquire.com/
+  description: Barbershop booking and management software.
+  sector: vertical-saas
+  stage: series-d
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: squire
+- name: ST Labs
+  url: https://stlabs.com/
+  description: Technology company.
+  sector: technology
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: st-labs
+- name: Statsig
+  url: https://statsig.com/
+  description: Feature management and experimentation platform.
+  sector: developer-tools
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: statsig
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stripe
+  url: https://stripe.com/
+  description: Online payments infrastructure platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: stripe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Swap
+  url: https://www.swap-commerce.com/
+  description: Cross-border e-commerce operations platform.
+  sector: ecommerce
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: swap
+- name: Tennr
+  url: https://www.tennr.com/
+  description: AI for healthcare referral and intake workflows.
+  sector: healthcare
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tennr
+- name: TinyFish
+  url: https://www.tinyfish.ai/
+  description: AI web agent platform for enterprises.
+  sector: ai
+  stage: series-a
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tinyfish
+- name: Truckstop
+  url: https://www.truckstop.com/
+  description: Freight marketplace and load board.
+  sector: logistics
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: truckstop
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Turbonomic
+  url: https://www.turbonomic.com/
+  description: Application resource management (acquired by IBM).
+  sector: developer-tools
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  slug: turbonomic
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Twin Health
+  url: https://www.twinhealth.com/
+  description: Digital twin platform for metabolic health.
+  sector: healthcare
+  stage: series-d
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: twin-health
+- name: Palo Alto Networks
+  url: https://www.paloaltonetworks.com/
+  description: Enterprise cybersecurity platform.
+  sector: security
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: microsoft-azure
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Uber
+  url: https://www.uber.com/
+  description: Ride-hailing and delivery platform.
+  sector: marketplace
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: uber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: UnifyApps
+  url: https://www.unifyapps.com/
+  description: Enterprise application integration and AI platform.
+  sector: ai
+  stage: series-b
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: unifyapps
+- name: Unit21
+  url: https://www.unit21.ai/
+  description: Risk and fraud detection infrastructure.
+  sector: fintech
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: unit21
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Unite Us
+  url: https://www.uniteus.com/
+  description: Social care coordination network.
+  sector: healthcare
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: unite-us
+- name: Vic.ai
+  url: https://www.vic.ai/
+  description: AI-powered accounting and accounts payable automation.
+  sector: fintech
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vicai
+- name: Virtru
+  url: https://www.virtru.com/
+  description: Data-centric encryption and privacy platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: virtru
+- name: Warby Parker
+  url: https://www.warbyparker.com/
+  description: Eyewear brand and retailer.
+  sector: consumer
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: warby-parker
+- name: Wayfair
+  url: https://www.wayfair.com/
+  description: Online home goods retailer.
+  sector: ecommerce
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: wayfair
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wealthsimple
+  url: http://www.wealthsimple.com/
+  description: Canadian investing and money app.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wealthsimple
+- name: Whirl
+  url: https://www.whirlai.com/
+  description: AI company.
+  sector: ai
+  stage: early
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: whirl
+- name: Wolt
+  url: https://wolt.com/
+  description: European delivery platform (part of DoorDash).
+  sector: marketplace
+  stage: acquired
+  status: acquired
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wolt
+- name: Writer
+  url: https://writer.com/
+  description: Enterprise generative AI platform.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  slug: writer
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Zinier
+  url: https://www.zinier.com/
+  description: AI-driven field service management platform.
+  sector: vertical-saas
+  stage: series-c
+  status: active
+  source: https://www.iconiq.com/growth/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zinier
+- name: Zoom
+  url: https://www.zoom.us/
+  description: Video communications platform.
+  sector: communications
+  stage: ipo
+  status: ipo
+  source: https://www.iconiq.com/growth/companies
+  slug: zoom
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
