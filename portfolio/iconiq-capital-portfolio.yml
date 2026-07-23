@@ -3,9 +3,9 @@ method: searched
 source: https://www.iconiq.com/growth/companies
 summary:
   portfolio_total: 166
-  in_network: 94
-  api_providers: 66
-  missing: 72
+  in_network: 166
+  api_providers: 81
+  missing: 0
   stubs_created: 0
 companies:
 - name: 1Password
@@ -26,9 +26,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: acuitymd
+  slug: acuitymd
+  matched_by: domain
 - name: Adyen
   url: https://www.adyen.com/
   description: Global payments platform.
@@ -47,9 +48,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: age-of-learning
+  slug: age-of-learning
+  matched_by: domain
 - name: Airbnb
   url: https://www.airbnb.com/
   description: Travel and short-term rental marketplace.
@@ -79,9 +81,9 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: goto-gojek
+  slug: erudifi
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Alibaba
   url: https://www.alibaba.com/
@@ -101,9 +103,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: altruist
+  slug: altruist
+  matched_by: domain
 - name: Anduril
   url: https://www.anduril.com/
   description: Defense technology company building autonomous systems.
@@ -133,9 +136,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apprentice
+  slug: apprentice
+  matched_by: domain
 - name: Conga
   url: https://www.conga.com/
   description: Revenue lifecycle and document generation software.
@@ -143,9 +147,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: conga
+  slug: conga
+  matched_by: domain
 - name: Articulate
   url: https://www.articulate.com/
   description: E-learning content creation platform.
@@ -153,9 +158,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: articulate
+  slug: articulate
+  matched_by: domain
 - name: Assured
   url: https://www.assured.com/
   description: AI-powered insurance claims automation.
@@ -163,9 +169,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: assured
+  slug: assured
+  matched_by: domain
 - name: Aurora Solar
   url: https://www.aurorasolar.com/
   description: Solar design and sales software.
@@ -206,9 +213,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: backstory
+  slug: backstory
+  matched_by: domain
 - name: BambooHR
   url: https://www.bamboohr.com/
   description: HR software for small and medium businesses.
@@ -241,7 +249,7 @@ companies:
   slug: betterup
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
 - name: BILL
   url: https://www.bill.com/
   description: Financial operations platform for SMBs.
@@ -260,9 +268,10 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: blackline
+  slug: blackline
+  matched_by: domain
 - name: Braintrust
   url: https://www.braintrust.dev/
   description: Platform for evaluating and building AI applications.
@@ -325,9 +334,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: captivateiq
+  in_network: true
+  is_api_provider: true
+  slug: captivateiq
+  matched_by: domain
 - name: Causaly
   url: https://www.causaly.com/
   description: AI research platform for biomedical evidence.
@@ -335,9 +345,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: causaly
+  slug: causaly
+  matched_by: domain
 - name: Chime
   url: https://www.chime.com/
   description: Consumer neobank.
@@ -356,9 +367,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clara
+  slug: clara
+  matched_by: name-slug
 - name: Coast
   url: https://coastpay.com/
   description: Fleet fuel and expense card platform.
@@ -366,9 +378,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coast
+  slug: coast-fka-vayu
+  matched_by: domain
 - name: Collibra
   url: https://www.collibra.com/
   description: Data intelligence and governance platform.
@@ -387,9 +400,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: conduct-ai
+  slug: conduct
+  matched_by: domain
 - name: Conexiom
   url: https://www.conexiom.com/
   description: Sales order and invoice automation.
@@ -397,9 +411,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: conexiom
+  slug: conexiom
+  matched_by: domain
 - name: Coupa
   url: https://www.coupa.com/
   description: Business spend management platform.
@@ -484,9 +499,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: devoted-health
+  in_network: true
+  is_api_provider: true
+  slug: devoted
+  matched_by: domain
 - name: DexCare
   url: https://dexcare.com/
   description: Digital care orchestration for health systems.
@@ -494,9 +510,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dexcare
+  slug: dexcare
+  matched_by: domain
 - name: Dialpad
   url: https://www.dialpad.com/
   description: AI-powered cloud communications platform.
@@ -548,9 +565,10 @@ companies:
   stage: ipo
   status: acquired
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enfusion
+  slug: enfusion
+  matched_by: domain
 - name: Epic Games
   url: https://store.epicgames.com/
   description: Game developer and creator of Unreal Engine and Fortnite.
@@ -569,9 +587,10 @@ companies:
   stage: acquired
   status: acquired
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: evolutioniq
+  slug: evolutioniq
+  matched_by: domain
 - name: ezCater
   url: https://www.ezcater.com/
   description: Business catering marketplace.
@@ -579,9 +598,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ezcater
+  slug: ezcater
+  matched_by: domain
 - name: Fastly
   url: https://www.fastly.com/
   description: Edge cloud and content delivery platform.
@@ -600,9 +620,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fetch
+  slug: fetch
+  matched_by: name-slug
 - name: Figma
   url: https://www.figma.com/
   description: Collaborative interface design platform.
@@ -621,9 +642,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: fin
+  in_network: true
+  is_api_provider: true
+  slug: fin
+  matched_by: name-slug
 - name: Fireblocks
   url: https://www.fireblocks.com/
   description: Digital asset custody and infrastructure platform.
@@ -653,7 +675,7 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: flipkart-marketplace
+  slug: flipkart
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -664,9 +686,10 @@ companies:
   stage: series-e
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: floqast
+  slug: floqast
+  matched_by: domain
 - name: FreeWill
   url: https://www.freewill.com/
   description: Online estate planning and charitable giving platform.
@@ -674,9 +697,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: freewill
+  slug: freewill
+  matched_by: domain
 - name: FTX
   url: https://www.ftx.us/
   description: Collapsed cryptocurrency exchange.
@@ -695,7 +719,7 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: gem-com
+  slug: cartwheel-care
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -739,9 +763,10 @@ companies:
   stage: acquired
   status: acquired
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: greensky
+  slug: greensky
+  matched_by: domain
 - name: Grotto AI
   url: https://grottoai.com/
   description: AI company.
@@ -749,9 +774,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: grotto-ai
+  slug: grotto-ai
+  matched_by: name-slug
 - name: Groww
   url: https://groww.in/
   description: Indian investment and trading platform.
@@ -759,9 +785,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: groww
+  in_network: true
+  is_api_provider: true
+  slug: groww
+  matched_by: domain
 - name: Guild
   url: https://www.guildeducation.com/
   description: Education and upskilling benefits platform.
@@ -769,9 +796,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: guild
+  slug: guild
+  matched_by: domain
 - name: HashiCorp
   url: https://www.hashicorp.com/
   description: Cloud infrastructure automation software.
@@ -790,9 +818,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: headspin
+  slug: headspin
+  matched_by: domain
 - name: Helsing
   url: https://helsing.ai/
   description: European defense AI company.
@@ -811,9 +840,10 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ams-osram
+  slug: ams-osram
+  matched_by: name-slug
 - name: HighRadius
   url: https://www.highradius.com/
   description: Autonomous finance and order-to-cash software.
@@ -821,9 +851,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: highradius
+  slug: highradius
+  matched_by: domain
 - name: Highspot
   url: https://www.highspot.com/
   description: Sales enablement platform.
@@ -864,9 +895,10 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-honest-company
+  slug: honest-company
+  matched_by: domain
 - name: Houzz
   url: https://www.houzz.com/
   description: Home renovation and design marketplace.
@@ -874,9 +906,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: houzz
+  slug: houzz
+  matched_by: domain
 - name: IEX
   url: https://exchange.iex.io/
   description: Investor-focused stock exchange.
@@ -884,9 +917,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: iex
+  slug: iex
+  matched_by: domain
 - name: Incident IQ
   url: https://www.incidentiq.com/
   description: Workflow management for K-12 school districts.
@@ -894,9 +928,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: incident-iq
+  slug: incident-iq
+  matched_by: domain
 - name: Intercom
   url: https://www.intercom.com/
   description: AI-first customer service platform.
@@ -915,7 +950,7 @@ companies:
   stage: dead
   status: dead
   source: https://www.iconiq.com/growth/companies
-  slug: invision
+  slug: invisionapp
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -926,9 +961,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: komodo-health
+  slug: komodohealth
+  matched_by: domain
 - name: Lead Bank
   url: https://www.lead.bank/
   description: Banking and embedded finance platform.
@@ -1013,7 +1049,7 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: neobanks
+  slug: monzo
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -1024,9 +1060,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: motorway
+  slug: motorway
+  matched_by: domain
 - name: Moveworks
   url: https://www.moveworks.com/
   description: AI copilot for employee support (acquired by ServiceNow).
@@ -1036,8 +1073,8 @@ companies:
   source: https://www.iconiq.com/growth/companies
   slug: moveworks
   in_network: true
-  is_api_provider: false
-  matched_by: name-slug
+  is_api_provider: true
+  matched_by: domain
 - name: Nayya
   url: https://www.nayya.com/
   description: Benefits and insurance decision platform.
@@ -1045,9 +1082,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: nayya
+  in_network: true
+  is_api_provider: true
+  slug: nayya
+  matched_by: domain
 - name: Netskope
   url: https://www.netskope.com/
   description: Cloud security and SASE platform.
@@ -1066,9 +1104,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nevis-wealth
+  slug: nevis-wealth
+  matched_by: domain
 - name: NinjaOne
   url: https://www.ninjaone.com/
   description: IT endpoint management platform.
@@ -1076,9 +1115,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: ninjaone
+  in_network: true
+  is_api_provider: true
+  slug: ninjaone
+  matched_by: domain
 - name: Notable
   url: https://www.notablehealth.com/
   description: AI automation platform for healthcare operations.
@@ -1086,9 +1126,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: notable
+  slug: notable
+  matched_by: domain
 - name: Notion
   url: https://www.notion.so/
   description: Connected workspace and note-taking platform.
@@ -1107,9 +1148,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: omni
+  in_network: true
+  is_api_provider: true
+  slug: omni
+  matched_by: domain
 - name: OpenAI
   url: https://openai.com/
   description: AI research company and maker of ChatGPT.
@@ -1161,9 +1203,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: outtake
+  slug: outtake
+  matched_by: domain
 - name: Panther
   url: https://www.panther.com/
   description: Security data lake and detection platform.
@@ -1171,9 +1214,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: panther
+  in_network: true
+  is_api_provider: true
+  slug: panther
+  matched_by: domain
 - name: Pepper
   url: https://www.usepepper.com/
   description: B2B food distribution commerce platform.
@@ -1181,9 +1225,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pepper
+  slug: pepper
+  matched_by: domain
 - name: Pi
   url: https://www.pi.website/
   description: Financial technology company.
@@ -1202,9 +1247,10 @@ companies:
   stage: series-d
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: pigment
+  in_network: true
+  is_api_provider: true
+  slug: pigment
+  matched_by: name-slug
 - name: Pinecone
   url: https://www.pinecone.io/
   description: Vector database for AI applications.
@@ -1234,9 +1280,10 @@ companies:
   stage: series-d
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pontera
+  slug: pontera
+  matched_by: domain
 - name: Primer
   url: https://primer.io/
   description: Unified payments infrastructure platform.
@@ -1266,9 +1313,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: qgenda
+  in_network: true
+  is_api_provider: true
+  slug: qgenda
+  matched_by: domain
 - name: Quince
   url: https://www.quince.com/
   description: Affordable premium consumer goods brand.
@@ -1276,9 +1324,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: quince
+  slug: quince
+  matched_by: domain
 - name: Rain
   url: https://www.rain.xyz/
   description: Stablecoin card and payments infrastructure.
@@ -1286,9 +1335,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rain
+  slug: rain
+  matched_by: domain
 - name: Ramp
   url: https://www.ramp.com/
   description: Corporate cards and spend management platform.
@@ -1318,9 +1368,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: red-ventures
+  slug: red-ventures
+  matched_by: domain
 - name: Reify Health
   url: https://www.reifyhealth.com/
   description: Clinical trial technology platform.
@@ -1328,9 +1379,10 @@ companies:
   stage: series-d
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reify-health
+  slug: reify-health
+  matched_by: domain
 - name: Relativity
   url: https://www.relativity.com/
   description: E-discovery and legal data software.
@@ -1371,9 +1423,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: rillet
+  in_network: true
+  is_api_provider: true
+  slug: rillet
+  matched_by: domain
 - name: Robinhood
   url: https://www.robinhood.com/
   description: Commission-free investing and trading platform.
@@ -1381,9 +1434,10 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: robinhood
+  in_network: true
+  is_api_provider: true
+  slug: robinhood
+  matched_by: domain
 - name: Sanity
   url: https://www.sanity.io/
   description: Composable content platform for structured content.
@@ -1435,9 +1489,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: side
+  slug: side
+  matched_by: name-slug
 - name: Sierra
   url: https://sierra.ai/
   description: Conversational AI agent platform for enterprises.
@@ -1456,9 +1511,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: skuid
+  slug: skuid
+  matched_by: domain
 - name: Smartling
   url: https://www.smartling.com/
   description: Translation and localization management platform.
@@ -1488,9 +1544,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: spotnana
+  in_network: true
+  is_api_provider: true
+  slug: spotnana
+  matched_by: domain
 - name: Sprinklr
   url: https://www.sprinklr.com/
   description: Unified customer experience management platform.
@@ -1509,9 +1566,10 @@ companies:
   stage: series-d
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: squire
+  slug: squire
+  matched_by: domain
 - name: ST Labs
   url: https://stlabs.com/
   description: Technology company.
@@ -1519,9 +1577,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: st-labs
+  slug: st-labs
+  matched_by: domain
 - name: Statsig
   url: https://statsig.com/
   description: Feature management and experimentation platform.
@@ -1551,9 +1610,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: swap
+  slug: swap
+  matched_by: domain
 - name: Tennr
   url: https://www.tennr.com/
   description: AI for healthcare referral and intake workflows.
@@ -1561,9 +1621,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tennr
+  slug: tennr
+  matched_by: domain
 - name: TinyFish
   url: https://www.tinyfish.ai/
   description: AI web agent platform for enterprises.
@@ -1571,9 +1632,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: tinyfish
+  in_network: true
+  is_api_provider: true
+  slug: tinyfish
+  matched_by: domain
 - name: Truckstop
   url: https://www.truckstop.com/
   description: Freight marketplace and load board.
@@ -1592,10 +1654,10 @@ companies:
   stage: acquired
   status: acquired
   source: https://www.iconiq.com/growth/companies
-  slug: turbonomic
+  slug: sevone-turbonomic
   in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  is_api_provider: false
+  matched_by: domain
 - name: Twin Health
   url: https://www.twinhealth.com/
   description: Digital twin platform for metabolic health.
@@ -1603,9 +1665,10 @@ companies:
   stage: series-d
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: twin-health
+  slug: twin-health
+  matched_by: domain
 - name: Palo Alto Networks
   url: https://www.paloaltonetworks.com/
   description: Enterprise cybersecurity platform.
@@ -1613,7 +1676,7 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  slug: microsoft-azure
+  slug: demisto
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1635,9 +1698,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: unifyapps
+  slug: unifyapps
+  matched_by: domain
 - name: Unit21
   url: https://www.unit21.ai/
   description: Risk and fraud detection infrastructure.
@@ -1656,9 +1720,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: unite-us
+  slug: unite-us
+  matched_by: domain
 - name: Vic.ai
   url: https://www.vic.ai/
   description: AI-powered accounting and accounts payable automation.
@@ -1666,9 +1731,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: vicai
+  in_network: true
+  is_api_provider: true
+  slug: vicai
+  matched_by: domain
 - name: Virtru
   url: https://www.virtru.com/
   description: Data-centric encryption and privacy platform.
@@ -1676,9 +1742,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: virtru
+  in_network: true
+  is_api_provider: true
+  slug: virtru
+  matched_by: domain
 - name: Warby Parker
   url: https://www.warbyparker.com/
   description: Eyewear brand and retailer.
@@ -1686,9 +1753,10 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: warby-parker
+  slug: warby-parker
+  matched_by: domain
 - name: Wayfair
   url: https://www.wayfair.com/
   description: Online home goods retailer.
@@ -1707,9 +1775,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wealthsimple
+  slug: wealthsimple
+  matched_by: domain
 - name: Whirl
   url: https://www.whirlai.com/
   description: AI company.
@@ -1717,9 +1786,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: whirl
+  slug: whirl
+  matched_by: domain
 - name: Wolt
   url: https://wolt.com/
   description: European delivery platform (part of DoorDash).
@@ -1727,9 +1797,10 @@ companies:
   stage: acquired
   status: acquired
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wolt
+  slug: wolt
+  matched_by: domain
 - name: Writer
   url: https://writer.com/
   description: Enterprise generative AI platform.
@@ -1748,9 +1819,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zinier
+  slug: zinier
+  matched_by: domain
 - name: Zoom
   url: https://www.zoom.us/
   description: Video communications platform.
