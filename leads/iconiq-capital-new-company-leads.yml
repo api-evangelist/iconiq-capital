@@ -1,4 +1,46 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: iconiq-capital
-leads: []
+leads:
+- name: Clara
+  url: https://www.clara.com/
+  suggested_slug: clara-com
+  sector: fintech
+  source_vc: iconiq-capital
+  source: https://www.iconiq.com/growth/companies
+  stub_created: false
+- name: Fetch
+  url: https://www.fetchrewards.com/
+  suggested_slug: fetchrewards-com
+  sector: consumer
+  source_vc: iconiq-capital
+  source: https://www.iconiq.com/growth/companies
+  stub_created: false
+- name: Grotto AI
+  url: https://grottoai.com/
+  suggested_slug: grottoai-com
+  sector: ai
+  source_vc: iconiq-capital
+  source: https://www.iconiq.com/growth/companies
+  stub_created: false
+- name: ams OSRAM
+  url: https://www.ams.com/
+  suggested_slug: ams-com
+  sector: hardware
+  source_vc: iconiq-capital
+  source: https://www.iconiq.com/growth/companies
+  stub_created: false
+- name: Pigment
+  url: https://www.gopigment.com/
+  suggested_slug: gopigment-com
+  sector: enterprise-software
+  source_vc: iconiq-capital
+  source: https://www.iconiq.com/growth/companies
+  stub_created: false
+- name: Side
+  url: https://www.sideinc.com/
+  suggested_slug: sideinc-com
+  sector: proptech
+  source_vc: iconiq-capital
+  source: https://www.iconiq.com/growth/companies
+  stub_created: false

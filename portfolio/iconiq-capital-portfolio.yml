@@ -3,9 +3,9 @@ method: searched
 source: https://www.iconiq.com/growth/companies
 summary:
   portfolio_total: 166
-  in_network: 166
-  api_providers: 81
-  missing: 0
+  in_network: 160
+  api_providers: 83
+  missing: 6
   stubs_created: 0
 companies:
 - name: 1Password
@@ -81,7 +81,7 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: erudifi
+  slug: actavis
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -94,7 +94,7 @@ companies:
   source: https://www.iconiq.com/growth/companies
   slug: alibaba
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Altruist
   url: https://altruist.com/
@@ -104,7 +104,7 @@ companies:
   status: active
   source: https://www.iconiq.com/growth/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: altruist
   matched_by: domain
 - name: Anduril
@@ -148,7 +148,7 @@ companies:
   status: active
   source: https://www.iconiq.com/growth/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: conga
   matched_by: domain
 - name: Articulate
@@ -191,7 +191,7 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: gravatar
+  slug: automattic
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -367,10 +367,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: clara
-  matched_by: name-slug
+  x-name-collision: clara
+  suggested_slug: clara-com
 - name: Coast
   url: https://coastpay.com/
   description: Fleet fuel and expense card platform.
@@ -380,7 +380,7 @@ companies:
   source: https://www.iconiq.com/growth/companies
   in_network: true
   is_api_provider: false
-  slug: coast-fka-vayu
+  slug: coast
   matched_by: domain
 - name: Collibra
   url: https://www.collibra.com/
@@ -402,7 +402,7 @@ companies:
   source: https://www.iconiq.com/growth/companies
   in_network: true
   is_api_provider: false
-  slug: conduct
+  slug: conduct-ai
   matched_by: domain
 - name: Conexiom
   url: https://www.conexiom.com/
@@ -501,7 +501,7 @@ companies:
   source: https://www.iconiq.com/growth/companies
   in_network: true
   is_api_provider: true
-  slug: devoted
+  slug: devoted-health
   matched_by: domain
 - name: DexCare
   url: https://dexcare.com/
@@ -511,7 +511,7 @@ companies:
   status: active
   source: https://www.iconiq.com/growth/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: dexcare
   matched_by: domain
 - name: Dialpad
@@ -620,10 +620,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: fetch
-  matched_by: name-slug
+  x-name-collision: fetch
+  suggested_slug: fetchrewards-com
 - name: Figma
   url: https://www.figma.com/
   description: Collaborative interface design platform.
@@ -752,7 +752,7 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: classy-org
+  slug: gofundme
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -774,10 +774,10 @@ companies:
   stage: early
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: grotto-ai
-  matched_by: name-slug
+  x-name-collision: grotto-ai
+  suggested_slug: grottoai-com
 - name: Groww
   url: https://groww.in/
   description: Indian investment and trading platform.
@@ -840,10 +840,10 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: ams-osram
-  matched_by: name-slug
+  x-name-collision: ams-osram
+  suggested_slug: ams-com
 - name: HighRadius
   url: https://www.highradius.com/
   description: Autonomous finance and order-to-cash software.
@@ -876,7 +876,7 @@ companies:
   slug: hightouch
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
 - name: Hippo
   url: https://www.hippo.com/
   description: Home insurance platform.
@@ -884,7 +884,7 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  slug: hippo
+  slug: hippo-com
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -963,7 +963,7 @@ companies:
   source: https://www.iconiq.com/growth/companies
   in_network: true
   is_api_provider: false
-  slug: komodohealth
+  slug: komodo-health
   matched_by: domain
 - name: Lead Bank
   url: https://www.lead.bank/
@@ -1005,7 +1005,7 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  slug: lucidchart
+  slug: lucid
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1095,7 +1095,7 @@ companies:
   source: https://www.iconiq.com/growth/companies
   slug: netskope
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Nevis Wealth
   url: https://www.neviswealth.com/
@@ -1247,10 +1247,10 @@ companies:
   stage: series-d
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: true
-  is_api_provider: true
-  slug: pigment
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: pigment
+  suggested_slug: gopigment-com
 - name: Pinecone
   url: https://www.pinecone.io/
   description: Vector database for AI applications.
@@ -1489,10 +1489,10 @@ companies:
   stage: growth
   status: active
   source: https://www.iconiq.com/growth/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: side
-  matched_by: name-slug
+  x-name-collision: side
+  suggested_slug: sideinc-com
 - name: Sierra
   url: https://sierra.ai/
   description: Conversational AI agent platform for enterprises.
@@ -1676,7 +1676,7 @@ companies:
   stage: ipo
   status: ipo
   source: https://www.iconiq.com/growth/companies
-  slug: demisto
+  slug: cyberark
   in_network: true
   is_api_provider: true
   matched_by: domain
